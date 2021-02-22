@@ -29,10 +29,30 @@ namespace WinFormClient
         /// </summary>
         private void InitializeComponent()
         {
-            this.tbMain = new System.Windows.Forms.TextBox();
             this.btnSendMessage = new System.Windows.Forms.Button();
             this.tbMessage = new System.Windows.Forms.TextBox();
+            this.tbMain = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
+            // 
+            // btnSendMessage
+            // 
+            this.btnSendMessage.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnSendMessage.Location = new System.Drawing.Point(224, 207);
+            this.btnSendMessage.Name = "btnSendMessage";
+            this.btnSendMessage.Size = new System.Drawing.Size(146, 34);
+            this.btnSendMessage.TabIndex = 1;
+            this.btnSendMessage.Text = "Send Message";
+            this.btnSendMessage.UseVisualStyleBackColor = true;
+            this.btnSendMessage.Click += new System.EventHandler(this.btnSendMessage_Click);
+            // 
+            // tbMessage
+            // 
+            this.tbMessage.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.tbMessage.Location = new System.Drawing.Point(12, 179);
+            this.tbMessage.Name = "tbMessage";
+            this.tbMessage.Size = new System.Drawing.Size(358, 22);
+            this.tbMessage.TabIndex = 2;
             // 
             // tbMain
             // 
@@ -44,25 +64,6 @@ namespace WinFormClient
             this.tbMain.ReadOnly = true;
             this.tbMain.Size = new System.Drawing.Size(358, 161);
             this.tbMain.TabIndex = 0;
-            // 
-            // btnSendMessage
-            // 
-            this.btnSendMessage.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnSendMessage.Location = new System.Drawing.Point(224, 207);
-            this.btnSendMessage.Name = "btnSendMessage";
-            this.btnSendMessage.Size = new System.Drawing.Size(146, 34);
-            this.btnSendMessage.TabIndex = 1;
-            this.btnSendMessage.Text = "Send Message";
-            this.btnSendMessage.UseVisualStyleBackColor = true;
-            // 
-            // tbMessage
-            // 
-            this.tbMessage.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.tbMessage.Location = new System.Drawing.Point(12, 179);
-            this.tbMessage.Name = "tbMessage";
-            this.tbMessage.Size = new System.Drawing.Size(358, 22);
-            this.tbMessage.TabIndex = 2;
             // 
             // MainForm
             // 
@@ -80,10 +81,9 @@ namespace WinFormClient
         }
 
         #endregion
-
-        private System.Windows.Forms.TextBox tbMain;
         private System.Windows.Forms.Button btnSendMessage;
         private System.Windows.Forms.TextBox tbMessage;
+        private System.Windows.Forms.TextBox tbMain;
     }
 }
 

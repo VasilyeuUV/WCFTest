@@ -7,9 +7,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerWinService", "FirstSe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneralInterfaces", "GeneralInterfaces\GeneralInterfaces.csproj", "{7542AA03-909D-4B11-BD31-078AF01E1F64}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerOnWindowsForms", "ServerOnWindowsForms\ServerOnWindowsForms.csproj", "{A98033E3-4D90-418E-AFC0-9782F27DBDD8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerWinForms", "ServerOnWindowsForms\ServerWinForms.csproj", "{A98033E3-4D90-418E-AFC0-9782F27DBDD8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormClient", "WinFormClient\WinFormClient.csproj", "{E786E076-EFC4-46CE-9BA7-228D836EC132}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F682AE33-4250-475F-BE22-C1992E071B6A} = {F682AE33-4250-475F-BE22-C1992E071B6A}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
