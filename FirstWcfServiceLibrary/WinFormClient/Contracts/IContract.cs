@@ -1,12 +1,10 @@
 ﻿using GeneralInterfaces.IContracts;
-using System.ServiceModel;
 
-namespace ServerWinForms.Contracts
+namespace WinFormClient.Contracts
 {
     /// <summary>
-    /// Контракт на сервере
+    /// Контракт на клиенте
     /// </summary>
-    [ServiceContract]
     internal interface IContract : IFirstContract
     {
     }
