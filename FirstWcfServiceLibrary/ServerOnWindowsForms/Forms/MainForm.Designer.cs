@@ -1,5 +1,5 @@
 ﻿
-namespace ServerOnWindowsForms
+namespace ServerWinForms
 {
     partial class MainForm
     {

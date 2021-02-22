@@ -1,11 +1,11 @@
 ﻿using GeneralInterfaces.IContracts;
-using ServerOnWindowsForms.Models;
-using ServerOnWindowsForms.Services;
+using ServerWinForms.Models;
+using ServerWinForms.Services;
 using System;
 using System.ServiceModel;
 using System.Windows.Forms;
 
-namespace ServerOnWindowsForms
+namespace ServerWinForms
 {
     public partial class MainForm : Form
     {

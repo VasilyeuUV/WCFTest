@@ -1,6 +1,6 @@
 ﻿using GeneralInterfaces.IContracts;
 
-namespace ServerOnWindowsForms.Services
+namespace ServerWinForms.Services
 {
     /// <summary>
     /// Первая реализаци сервиса WCF сервера

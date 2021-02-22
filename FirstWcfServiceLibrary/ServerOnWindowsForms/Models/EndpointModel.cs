@@ -1,7 +1,7 @@
 ﻿using System;
 using System.ServiceModel.Channels;
 
-namespace ServerOnWindowsForms.Models
+namespace ServerWinForms.Models
 {
     /// <summary>
     /// Модель конечной точки
