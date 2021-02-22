@@ -1,0 +1,13 @@
+E:\_projects\wcf\WCFTest\FirstWcfServiceLibrary\ServerOnWindowsForms\bin\Debug\ServerOnWindowsForms.exe.config
+E:\_projects\wcf\WCFTest\FirstWcfServiceLibrary\ServerOnWindowsForms\bin\Debug\ServerOnWindowsForms.exe
+E:\_projects\wcf\WCFTest\FirstWcfServiceLibrary\ServerOnWindowsForms\bin\Debug\ServerOnWindowsForms.pdb
+E:\_projects\wcf\WCFTest\FirstWcfServiceLibrary\ServerOnWindowsForms\bin\Debug\GeneralInterfaces.dll
+E:\_projects\wcf\WCFTest\FirstWcfServiceLibrary\ServerOnWindowsForms\bin\Debug\GeneralInterfaces.pdb
+E:\_projects\wcf\WCFTest\FirstWcfServiceLibrary\ServerOnWindowsForms\obj\Debug\ServerWinForms.csprojAssemblyReference.cache
+E:\_projects\wcf\WCFTest\FirstWcfServiceLibrary\ServerOnWindowsForms\obj\Debug\ServerOnWindowsForms.MainForm.resources
+E:\_projects\wcf\WCFTest\FirstWcfServiceLibrary\ServerOnWindowsForms\obj\Debug\ServerOnWindowsForms.Properties.Resources.resources
+E:\_projects\wcf\WCFTest\FirstWcfServiceLibrary\ServerOnWindowsForms\obj\Debug\ServerWinForms.csproj.GenerateResource.cache
+E:\_projects\wcf\WCFTest\FirstWcfServiceLibrary\ServerOnWindowsForms\obj\Debug\ServerWinForms.csproj.CoreCompileInputs.cache
+E:\_projects\wcf\WCFTest\FirstWcfServiceLibrary\ServerOnWindowsForms\obj\Debug\ServerWinForms.csproj.CopyComplete
+E:\_projects\wcf\WCFTest\FirstWcfServiceLibrary\ServerOnWindowsForms\obj\Debug\ServerOnWindowsForms.exe
+E:\_projects\wcf\WCFTest\FirstWcfServiceLibrary\ServerOnWindowsForms\obj\Debug\ServerOnWindowsForms.pdb

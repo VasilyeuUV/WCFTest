@@ -1,0 +1,9 @@
+E:\_projects\wcf\WCFTest\FirstWcfServiceLibrary\ServerOnWindowsForms\bin\Debug\ServerOnWindowsForms.exe.config
+E:\_projects\wcf\WCFTest\FirstWcfServiceLibrary\ServerOnWindowsForms\bin\Debug\ServerOnWindowsForms.exe
+E:\_projects\wcf\WCFTest\FirstWcfServiceLibrary\ServerOnWindowsForms\bin\Debug\ServerOnWindowsForms.pdb
+E:\_projects\wcf\WCFTest\FirstWcfServiceLibrary\ServerOnWindowsForms\obj\Debug\ServerOnWindowsForms.csprojAssemblyReference.cache
+E:\_projects\wcf\WCFTest\FirstWcfServiceLibrary\ServerOnWindowsForms\obj\Debug\ServerOnWindowsForms.Properties.Resources.resources
+E:\_projects\wcf\WCFTest\FirstWcfServiceLibrary\ServerOnWindowsForms\obj\Debug\ServerOnWindowsForms.csproj.GenerateResource.cache
+E:\_projects\wcf\WCFTest\FirstWcfServiceLibrary\ServerOnWindowsForms\obj\Debug\ServerOnWindowsForms.csproj.CoreCompileInputs.cache
+E:\_projects\wcf\WCFTest\FirstWcfServiceLibrary\ServerOnWindowsForms\obj\Debug\ServerOnWindowsForms.exe
+E:\_projects\wcf\WCFTest\FirstWcfServiceLibrary\ServerOnWindowsForms\obj\Debug\ServerOnWindowsForms.pdb

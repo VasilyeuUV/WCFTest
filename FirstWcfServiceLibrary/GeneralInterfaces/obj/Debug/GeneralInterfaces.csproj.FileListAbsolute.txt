@@ -1,0 +1,5 @@
+E:\_projects\wcf\WCFTest\FirstWcfServiceLibrary\GeneralInterfaces\bin\Debug\GeneralInterfaces.dll
+E:\_projects\wcf\WCFTest\FirstWcfServiceLibrary\GeneralInterfaces\bin\Debug\GeneralInterfaces.pdb
+E:\_projects\wcf\WCFTest\FirstWcfServiceLibrary\GeneralInterfaces\obj\Debug\GeneralInterfaces.csproj.CoreCompileInputs.cache
+E:\_projects\wcf\WCFTest\FirstWcfServiceLibrary\GeneralInterfaces\obj\Debug\GeneralInterfaces.dll
+E:\_projects\wcf\WCFTest\FirstWcfServiceLibrary\GeneralInterfaces\obj\Debug\GeneralInterfaces.pdb

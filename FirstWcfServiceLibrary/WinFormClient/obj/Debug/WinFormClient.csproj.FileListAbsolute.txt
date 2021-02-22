@@ -1,0 +1,13 @@
+E:\_projects\wcf\WCFTest\FirstWcfServiceLibrary\WinFormClient\bin\Debug\WinFormClient.exe.config
+E:\_projects\wcf\WCFTest\FirstWcfServiceLibrary\WinFormClient\bin\Debug\WinFormClient.exe
+E:\_projects\wcf\WCFTest\FirstWcfServiceLibrary\WinFormClient\bin\Debug\WinFormClient.pdb
+E:\_projects\wcf\WCFTest\FirstWcfServiceLibrary\WinFormClient\obj\Debug\WinFormClient.csprojAssemblyReference.cache
+E:\_projects\wcf\WCFTest\FirstWcfServiceLibrary\WinFormClient\obj\Debug\WinFormClient.MainForm.resources
+E:\_projects\wcf\WCFTest\FirstWcfServiceLibrary\WinFormClient\obj\Debug\WinFormClient.Properties.Resources.resources
+E:\_projects\wcf\WCFTest\FirstWcfServiceLibrary\WinFormClient\obj\Debug\WinFormClient.csproj.GenerateResource.cache
+E:\_projects\wcf\WCFTest\FirstWcfServiceLibrary\WinFormClient\obj\Debug\WinFormClient.csproj.CoreCompileInputs.cache
+E:\_projects\wcf\WCFTest\FirstWcfServiceLibrary\WinFormClient\obj\Debug\WinFormClient.exe
+E:\_projects\wcf\WCFTest\FirstWcfServiceLibrary\WinFormClient\obj\Debug\WinFormClient.pdb
+E:\_projects\wcf\WCFTest\FirstWcfServiceLibrary\WinFormClient\bin\Debug\GeneralInterfaces.dll
+E:\_projects\wcf\WCFTest\FirstWcfServiceLibrary\WinFormClient\bin\Debug\GeneralInterfaces.pdb
+E:\_projects\wcf\WCFTest\FirstWcfServiceLibrary\WinFormClient\obj\Debug\WinFormClient.csproj.CopyComplete

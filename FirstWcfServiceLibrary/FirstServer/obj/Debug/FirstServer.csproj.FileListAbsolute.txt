@@ -1,0 +1,12 @@
+E:\_projects\wcf\WCFTest\FirstWcfServiceLibrary\FirstServer\bin\Debug\FirstServer.dll.config
+E:\_projects\wcf\WCFTest\FirstWcfServiceLibrary\FirstServer\bin\Debug\FirstServer.dll
+E:\_projects\wcf\WCFTest\FirstWcfServiceLibrary\FirstServer\bin\Debug\FirstServer.pdb
+E:\_projects\wcf\WCFTest\FirstWcfServiceLibrary\FirstServer\obj\Debug\FirstServer.csproj.CoreCompileInputs.cache
+E:\_projects\wcf\WCFTest\FirstWcfServiceLibrary\FirstServer\obj\Debug\FirstServer.dll
+E:\_projects\wcf\WCFTest\FirstWcfServiceLibrary\FirstServer\obj\Debug\FirstServer.pdb
+E:\_projects\wcf\WCFTest\FirstWcfServiceLibrary\FirstServer\bin\Debug\GeneralInterfaces.dll
+E:\_projects\wcf\WCFTest\FirstWcfServiceLibrary\FirstServer\bin\Debug\GeneralInterfaces.pdb
+E:\_projects\wcf\WCFTest\FirstWcfServiceLibrary\FirstServer\obj\Debug\FirstServer.csprojAssemblyReference.cache
+E:\_projects\wcf\WCFTest\FirstWcfServiceLibrary\FirstServer\obj\Debug\FirstServer.Properties.strings.resources
+E:\_projects\wcf\WCFTest\FirstWcfServiceLibrary\FirstServer\obj\Debug\FirstServer.csproj.GenerateResource.cache
+E:\_projects\wcf\WCFTest\FirstWcfServiceLibrary\FirstServer\obj\Debug\FirstServer.csproj.CopyComplete
