@@ -1,6 +1,0 @@
-E:\_projects\wcf\WCFTest\FirstWcfServiceLibrary\FistServer\bin\Debug\FistServer.dll.config
-E:\_projects\wcf\WCFTest\FirstWcfServiceLibrary\FistServer\bin\Debug\FistServer.dll
-E:\_projects\wcf\WCFTest\FirstWcfServiceLibrary\FistServer\bin\Debug\FistServer.pdb
-E:\_projects\wcf\WCFTest\FirstWcfServiceLibrary\FistServer\obj\Debug\FistServer.csproj.CoreCompileInputs.cache
-E:\_projects\wcf\WCFTest\FirstWcfServiceLibrary\FistServer\obj\Debug\FistServer.dll
-E:\_projects\wcf\WCFTest\FirstWcfServiceLibrary\FistServer\obj\Debug\FistServer.pdb
