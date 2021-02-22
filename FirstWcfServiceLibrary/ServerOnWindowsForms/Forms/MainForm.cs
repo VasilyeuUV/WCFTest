@@ -1,11 +1,11 @@
 ﻿using GeneralInterfaces.IContracts;
-using ServerOnWindowsForms.Models;
-using ServerOnWindowsForms.Services;
+using ServerWinForms.Models;
+using ServerWinForms.Services;
 using System;
 using System.ServiceModel;
 using System.Windows.Forms;
 
-namespace ServerOnWindowsForms
+namespace ServerWinForms
 {
     public partial class MainForm : Form
     {
@@ -34,7 +34,7 @@ namespace ServerOnWindowsForms
             endpoint.Adress = new Uri($"http://127.0.0.1:4000/{endpoint.Contract.Name}");
 
             _host = new ServiceHost(typeof(FirstWcfService));                                   // создание провайдера хостинга с указанием сервиса
-            _host.AddServiceEndpoint(endpoint.Contract, endpoint.Binding, endpoint.Adress);     // добавление "конечной точки"
+            //_host.AddServiceEndpoint(endpoint.Contract, endpoint.Binding, endpoint.Adress);     // добавление "конечной точки" в коде (не в конфигурации)
             _host.Open();                                                                       // начало ожидания прихода сообщений
 
             tbMain.Text = $"{Properties.Resources.Ready}.\n";

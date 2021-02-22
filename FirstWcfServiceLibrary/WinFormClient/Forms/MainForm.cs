@@ -36,8 +36,8 @@ namespace WinFormClient
         private void btnSendMessageToWinFormServer_Click(object sender, EventArgs e)
         {
 
-            Uri adress = new Uri($"http://127.0.0.1:4000/{typeof(IFirstContract).Name}");   // где ожидать входящие сообщения
-            BasicHttpBinding binding = new BasicHttpBinding();                               // указания, как обмениваться сообщениями
+            Uri adress = new Uri($"http://127.0.0.1:4000/IContract");       // где ожидать входящие сообщения
+            BasicHttpBinding binding = new BasicHttpBinding();              // указания, как обмениваться сообщениями
             EndpointAddress endpoint = new EndpointAddress(adress);
 
             // Создание фабрики каналов
