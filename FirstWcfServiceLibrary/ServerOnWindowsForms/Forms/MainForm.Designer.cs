@@ -54,6 +54,7 @@ namespace ServerOnWindowsForms
             this.btnSeverStart.TabIndex = 1;
             this.btnSeverStart.Text = "Server Start";
             this.btnSeverStart.UseVisualStyleBackColor = true;
+            this.btnSeverStart.Click += new System.EventHandler(this.btnSeverStart_Click);
             // 
             // btnServerStop
             // 
@@ -64,6 +65,7 @@ namespace ServerOnWindowsForms
             this.btnServerStop.TabIndex = 2;
             this.btnServerStop.Text = "Server Stop";
             this.btnServerStop.UseVisualStyleBackColor = true;
+            this.btnServerStop.Click += new System.EventHandler(this.btnServerStop_Click);
             // 
             // MainForm
             // 

@@ -7,9 +7,11 @@ namespace WinFormClient
     {
         public MainForm()
         {
-            InitializeComponent();
+            InitializeComponent();            
+
             this.ActiveControl = tbMessage;
         }
+
 
         private void btnSendMessage_Click(object sender, EventArgs e)
         {

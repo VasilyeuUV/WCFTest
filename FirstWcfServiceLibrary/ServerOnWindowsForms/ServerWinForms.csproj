@@ -56,7 +56,6 @@
     <Compile Include="Models\EndpointModel.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Servers\FirstServer.cs" />
     <Compile Include="Services\AWcfServiceBase.cs" />
     <Compile Include="Services\FirstWcfService.cs" />
     <EmbeddedResource Include="Forms\MainForm.resx">

@@ -11,7 +11,7 @@ namespace ServerOnWindowsForms.Models
         /// <summary>
         /// Адрес, где ожидать входящие сообщения 
         /// </summary>
-        public Uri Uri { get; internal set; }
+        public Uri Adress { get; internal set; }
 
         /// <summary>
         /// Указание привязки, как обмениваться сообщениями
