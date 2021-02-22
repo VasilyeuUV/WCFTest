@@ -42,8 +42,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Contracts\IContractable.cs" />
-    <Compile Include="Contracts\IFirstContract.cs" />
+    <Compile Include="IContracts\IContractable.cs" />
+    <Compile Include="IContracts\IFirstContract.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

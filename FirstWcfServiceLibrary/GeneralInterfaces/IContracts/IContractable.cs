@@ -1,6 +1,6 @@
 ﻿using System.ServiceModel;
 
-namespace GeneralInterfaces.Contracts
+namespace GeneralInterfaces.IContracts
 {
     /// <summary>
     /// Базовый интерфейс для контрактов службы WCF
