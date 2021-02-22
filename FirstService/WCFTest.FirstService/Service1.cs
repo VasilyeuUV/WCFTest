@@ -10,7 +10,7 @@ namespace WCFTest.FirstService
     // ПРИМЕЧАНИЕ. Команду "Переименовать" в меню "Рефакторинг" можно использовать для одновременного изменения имени класса "Service1" в коде и файле конфигурации.
     public class Service1 : IService1
     {
-        public string GetData(int value)
+        public string GetData(string value)
         {
             return string.Format("You entered: {0}", value);
         }

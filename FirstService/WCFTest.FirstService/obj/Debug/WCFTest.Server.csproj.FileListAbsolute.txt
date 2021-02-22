@@ -1,0 +1,7 @@
+E:\_projects\wcf\WCFTest\FirstService\WCFTest.FirstService\bin\Debug\WCFTest.FirstService.dll.config
+E:\_projects\wcf\WCFTest\FirstService\WCFTest.FirstService\bin\Debug\WCFTest.FirstService.dll
+E:\_projects\wcf\WCFTest\FirstService\WCFTest.FirstService\bin\Debug\WCFTest.FirstService.pdb
+E:\_projects\wcf\WCFTest\FirstService\WCFTest.FirstService\obj\Debug\WCFTest.Server.csprojAssemblyReference.cache
+E:\_projects\wcf\WCFTest\FirstService\WCFTest.FirstService\obj\Debug\WCFTest.Server.csproj.CoreCompileInputs.cache
+E:\_projects\wcf\WCFTest\FirstService\WCFTest.FirstService\obj\Debug\WCFTest.FirstService.dll
+E:\_projects\wcf\WCFTest\FirstService\WCFTest.FirstService\obj\Debug\WCFTest.FirstService.pdb
