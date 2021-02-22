@@ -52,17 +52,9 @@
       <DependentUpon>strings.resx</DependentUpon>
     </Compile>
     <Compile Include="Service1.cs" />
-    <Compile Include="Services\AWcfServiceBase.cs" />
-    <Compile Include="Services\FirstWcfService.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\GeneralInterfaces\GeneralInterfaces.csproj">
-      <Project>{7542aa03-909d-4b11-bd31-078af01e1f64}</Project>
-      <Name>GeneralInterfaces</Name>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Properties\strings.resx">

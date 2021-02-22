@@ -1,6 +1,6 @@
 ﻿using GeneralInterfaces.IContracts;
 
-namespace FirstServer.Services
+namespace ServerOnWindowsForms.Services
 {
     internal abstract class AWcfServiceBase : IContractable
     {

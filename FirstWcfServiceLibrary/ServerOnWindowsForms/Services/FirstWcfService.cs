@@ -1,6 +1,6 @@
 ﻿using GeneralInterfaces.IContracts;
 
-namespace FirstServer.Services
+namespace ServerOnWindowsForms.Services
 {
     /// <summary>
     /// Первая реализаци сервиса WCF сервера
@@ -11,7 +11,7 @@ namespace FirstServer.Services
 
         public string GetData(string value)
         {
-            return string.Format($"{Properties.strings.Welcome}: {value}");
+            return string.Format($"{Properties.Resources.Welcome}: {value}");
         }
 
         #endregion // IFirstContract
