@@ -6,6 +6,7 @@ namespace GeneralInterfaces.IContracts
     /// <summary>
     /// Интерфейс первого контракта.
     /// </summary>
+    [ServiceContract]
     public interface IFirstContract : IContractable
     {
         /// <summary>

@@ -14,6 +14,9 @@ namespace ServerOnWindowsForms
         public MainForm()
         {
             InitializeComponent();
+
+            tbMain.Text = $"{Properties.Resources.NotReady}.\n";
+            btnServerStop.Enabled = false;
         }
 
         /// <summary>
@@ -28,13 +31,15 @@ namespace ServerOnWindowsForms
                 Contract = typeof(IFirstContract),
                 Binding = new BasicHttpBinding(),                
             };
-            endpoint.Adress = new Uri($"https://localhost:4000/{endpoint.Contract}");
+            endpoint.Adress = new Uri($"http://127.0.0.1:4000/{endpoint.Contract.Name}");
 
             _host = new ServiceHost(typeof(FirstWcfService));                                   // создание провайдера хостинга с указанием сервиса
             _host.AddServiceEndpoint(endpoint.Contract, endpoint.Binding, endpoint.Adress);     // добавление "конечной точки"
             _host.Open();                                                                       // начало ожидания прихода сообщений
 
             tbMain.Text = $"{Properties.Resources.Ready}.\n";
+            btnServerStop.Enabled = true;
+            btnSeverStart.Enabled = false;
         }
 
         /// <summary>
@@ -46,6 +51,10 @@ namespace ServerOnWindowsForms
         {
             _host?.Close();
             _host = null;
+
+            tbMain.Text = $"{Properties.Resources.NotReady}.\n";
+            btnServerStop.Enabled = false;
+            btnSeverStart.Enabled = true;
         }
     }
 }

@@ -61,6 +61,15 @@ namespace ServerOnWindowsForms.Properties {
         }
         
         /// <summary>
+        ///   Ищет локализованную строку, похожую на Сервер оключен.
+        /// </summary>
+        internal static string NotReady {
+            get {
+                return ResourceManager.GetString("NotReady", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Ищет локализованную строку, похожую на Сервер готов к приему сообщений.
         /// </summary>
         internal static string Ready {

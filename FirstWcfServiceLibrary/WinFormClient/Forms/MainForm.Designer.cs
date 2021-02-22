@@ -32,7 +32,7 @@ namespace WinFormClient
             this.btnSendMessage = new System.Windows.Forms.Button();
             this.tbMessage = new System.Windows.Forms.TextBox();
             this.tbMain = new System.Windows.Forms.TextBox();
-            this.button1 = new System.Windows.Forms.Button();
+            this.btnSendMessageToWinFormServer = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnSendMessage
@@ -66,21 +66,22 @@ namespace WinFormClient
             this.tbMain.Size = new System.Drawing.Size(484, 161);
             this.tbMain.TabIndex = 0;
             // 
-            // button1
+            // btnSendMessageToWinFormServer
             // 
-            this.button1.Location = new System.Drawing.Point(302, 207);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(194, 34);
-            this.button1.TabIndex = 3;
-            this.button1.Text = "Send Message to WinForm";
-            this.button1.UseVisualStyleBackColor = true;
+            this.btnSendMessageToWinFormServer.Location = new System.Drawing.Point(302, 207);
+            this.btnSendMessageToWinFormServer.Name = "btnSendMessageToWinFormServer";
+            this.btnSendMessageToWinFormServer.Size = new System.Drawing.Size(194, 34);
+            this.btnSendMessageToWinFormServer.TabIndex = 3;
+            this.btnSendMessageToWinFormServer.Text = "Send Message to WinForm";
+            this.btnSendMessageToWinFormServer.UseVisualStyleBackColor = true;
+            this.btnSendMessageToWinFormServer.Click += new System.EventHandler(this.btnSendMessageToWinFormServer_Click);
             // 
             // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(508, 253);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.btnSendMessageToWinFormServer);
             this.Controls.Add(this.tbMessage);
             this.Controls.Add(this.btnSendMessage);
             this.Controls.Add(this.tbMain);
@@ -95,7 +96,7 @@ namespace WinFormClient
         private System.Windows.Forms.Button btnSendMessage;
         private System.Windows.Forms.TextBox tbMessage;
         private System.Windows.Forms.TextBox tbMain;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button btnSendMessageToWinFormServer;
     }
 }
 
